@@ -8,10 +8,16 @@ A clinical study of COVID-19 infected patients has shown that these types of pat
 TABLE FOR DATASET DISTRIBUTIONS
 
 |PERSON                     | TAIN |  VALIDATION |
-|NORMAL PERSON              |  112 |     30      |
-|COVID_19 INFECTED PERSON   |  112 |     30      |
 
+|NORMAL             |  112 |     30      |
 
+| PERSON             |     
+ 
+|COVID_19    |  112 |     30      |
+
+|INFECTED|  
+
+|PERSON|    
 
 
 
